@@ -7,7 +7,7 @@ const Nav = () => (
   <NavStyles>
     <ul>
       <li>
-        <Link to="/hotnow">Hot Now</Link>
+        <Link to="/beers">Hot Now</Link>
       </li>
       <li>
         <Link to="/pizzas">Pizza Menu</Link>
